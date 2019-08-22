@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rellay_jadwal" type="id"/>
+    <item name="rellay_halal" type="id"/>
+    <item name="rellay_asmaulhusna" type="id"/>
+</resources>
